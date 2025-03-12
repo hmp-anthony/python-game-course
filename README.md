@@ -1,3 +1,3 @@
 # python-game-course
 
-The "pong" and "jumping" games were part of a AQA course that one of my students completed.  
+The "pong" and "jumping" games I wrote to help my students complete an AQA course.
